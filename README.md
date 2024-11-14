@@ -48,6 +48,14 @@ To set APP Key
 
 ## OUTPUT 
 ![image](https://github.com/vasanthkumarch/EXPERIMENT-07-CONFIGURING-NETWORK-SERVER-FOR-CONNECTING-GATEWAY-AND-END-NODE-/assets/36288975/858435f2-2f59-435d-ad3f-7ecd377bd0da)
+![Screenshot 2024-11-14 201426](https://github.com/user-attachments/assets/86cc5d12-011b-4246-b7bd-6c970b98e625)
+![Screenshot 2024-11-14 201458](https://github.com/user-attachments/assets/d9e3a8d6-ed65-41c7-babb-c3f572777b24)
+![Screenshot 2024-11-14 201550](https://github.com/user-attachments/assets/44fa56f9-3567-4ce4-9995-9cdac593886d)
+![Screenshot 2024-11-14 201607](https://github.com/user-attachments/assets/d49471ce-0487-4919-b95a-13c4c758dcfd)
+![Screenshot 2024-11-14 201625](https://github.com/user-attachments/assets/cab71d50-6f22-4eb7-9e0c-e78072248078)
+
+
+
 
 
 
